@@ -39,7 +39,7 @@ development_status:
   epic-1: in-progress
   1-1-project-scaffold-dependency-management: done
   1-2-implementation-of-security-middleware-safetensors-filter: done
-  1-3-core-api-key-authentication-middleware: backlog
+  1-3-core-api-key-authentication-middleware: done
   1-4-base-dockerization-for-gpu-environment: backlog
   epic-1-retrospective: optional
 
